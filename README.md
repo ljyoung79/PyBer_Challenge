@@ -12,6 +12,8 @@ Through analyzing the number of rides, the number of drivers, and the fare amoun
 
 •	Rural cities have the greatest average fares and the greatest average fare per driver
 
+![PyBer_Summary](https://user-images.githubusercontent.com/84556072/126082717-c8217927-ff51-4d68-9ac3-e0b03b8b6d01.jpg)
+
 
 ##Summary
 The data indicates that there are more drivers and rides available in Urban cities resulting in more revenue for PyBer.  It also indicates that the typical rides in Rural cities result in higher fares most likely due to longer times/distances per ride.
